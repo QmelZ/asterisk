@@ -1,0 +1,8 @@
+{
+    name: "asterisk",
+    displayName: "Asterisk",
+    author: "QmelZ",
+    description: "asdf",
+    version: 1,
+    minGameVersion: 125
+}
